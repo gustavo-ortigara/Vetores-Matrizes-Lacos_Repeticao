@@ -5,7 +5,7 @@ public class Atividade_Vetores01 {
 
         Scanner sc = new Scanner(System.in);
 
-        int[] numeros = new int[5];
+        int[] numeros = new int[10];
 
         System.out.println("Informe 10 números inteiros: ");
         for (int i = 0; i < numeros.length; i++) {
